@@ -3,25 +3,25 @@
     {
       "title": "Product 1",
       "price": "$19.99",
-      "image": "https://github.com/paul-liquid/product-data/blob/main/imgs/image-placeholder-500x500.jpg",
+      "image": "https://raw.githubusercontent.com/paul-liquid/product-data/536e67d666334f57f7227c41d67619b522ea1c4e/imgs/image-placeholder-500x500.jpg",
       "link": "https://liqcash.co/mav1"
     },
     {
       "title": "Product 2",
       "price": "$29.99",
-      "image": "https://github.com/paul-liquid/product-data/blob/main/imgs/image-placeholder-500x500.jpg",
+      "image": "https://raw.githubusercontent.com/paul-liquid/product-data/536e67d666334f57f7227c41d67619b522ea1c4e/imgs/image-placeholder-500x500.jpg",
       "link": "https://liqcash.co/mav2"
     },
     {
       "title": "Product 3",
       "price": "$39.99",
-      "image": "https://github.com/paul-liquid/product-data/blob/main/imgs/image-placeholder-500x500.jpg",
+      "image": "https://raw.githubusercontent.com/paul-liquid/product-data/536e67d666334f57f7227c41d67619b522ea1c4e/imgs/image-placeholder-500x500.jpg",
       "link": "https://liqcash.co/mav3"
     },
     {
       "title": "Product 4",
       "price": "$49.99",
-      "image": "https://example.com/images/product4.jpg",
+      "image": "https://raw.githubusercontent.com/paul-liquid/product-data/536e67d666334f57f7227c41d67619b522ea1c4e/imgs/image-placeholder-500x500.jpg",
       "link": "https://liqcash.co/mav4"
     }
   ]
